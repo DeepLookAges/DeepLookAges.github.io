@@ -1,0 +1,130 @@
+{
+  "site": {
+    "title": "DeepLook - Your Idea Deserves a Deeper Look",
+    "description": "Technical and creative success partner for startups and entrepreneurs"
+  },
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "work": "Our Work",
+    "store": "Store",
+    "blog": "Blog",
+    "about": "About",
+    "contact": "Contact",
+    "partners": "Partners Program",
+    "language": "العربية",
+    "cta": "Start Your Project"
+  },
+  "hero": {
+    "title": "Your Idea Deserves a Deeper Look",
+    "subtitle": "Let Us Illuminate It for You",
+    "cta": "Discover Our Services"
+  },
+  "tools": {
+    "title": "Free Tools",
+    "logoGenerator": {
+      "title": "Logo Generator",
+      "placeholder": "Your brand name",
+      "button": "Generate Logos",
+      "results": "Suggested Logos:"
+    },
+    "costCalculator": {
+      "title": "Campaign Cost Calculator",
+      "platform": "Platform",
+      "audience": "Audience Size",
+      "duration": "Duration (days)",
+      "calculate": "Calculate Cost",
+      "result": "Estimated Cost:"
+    }
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "We offer a range of digital marketing services to help your business grow",
+    "seo": {
+      "title": "SEO Optimization",
+      "description": "Boost your website's visibility and attract more organic traffic"
+    },
+    "social": {
+      "title": "Social Media Management",
+      "description": "Engage your audience and build a strong social media presence"
+    },
+    "content": {
+      "title": "Content Marketing",
+      "description": "Create valuable content that resonates with your target audience"
+    },
+    "analytics": {
+      "title": "Analytics & Reporting",
+      "description": "Track your performance and make data-driven decisions"
+    },
+    "webdev": {
+      "title": "Web Design & Development",
+      "description": "Develop a user-friendly website that reflects your brand"
+    },
+    "branding": {
+      "title": "Branding & Identity",
+      "description": "Craft a unique brand identity that sets you apart from the competition"
+    }
+  },
+  "caseStudies": {
+    "title": "Case Studies",
+    "client1": {
+      "name": "Client A",
+      "result": "Key Result 1"
+    },
+    "client2": {
+      "name": "Client B",
+      "result": "Key Result 2"
+    }
+  },
+  "products": {
+    "title": "Digital Products",
+    "viewStore": "View in Store",
+    "purchase": "Purchase",
+    "rating": "Rating"
+  },
+  "footer": {
+    "quickLinks": "Quick Links",
+    "legal": "Legal",
+    "newsletter": "Newsletter",
+    "subscribe": "Subscribe",
+    "privacy": "Privacy Policy",
+    "terms": "Terms & Conditions",
+    "copyright": "© 2024 DeepLook. All rights reserved."
+  },
+  "contact": {
+    "title": "Contact",
+    "getInTouch": "Get in touch",
+    "description": "We're here to help. Reach out to us with any questions or inquiries, and we'll get back to you promptly.",
+    "name": "Your Name",
+    "email": "Your Email",
+    "subject": "Subject",
+    "message": "Your Message",
+    "send": "Send Message",
+    "info": "Contact Information",
+    "phone": "Phone"
+  },
+  "store": {
+    "title": "Store",
+    "filters": "Filters",
+    "category": "Category",
+    "price": "Price",
+    "products": "Products",
+    "reviews": "reviews"
+  },
+  "partners": {
+    "title": "Be a Success Partner",
+    "description": "Join our network of partners and earn commissions by referring clients to our marketing and digital services",
+    "howItWorks": "How It Works",
+    "refer": "Refer a Client",
+    "onboard": "Client Onboarding",
+    "earn": "Earn Commission",
+    "registration": "Registration",
+    "fullName": "Full Name",
+    "emailAddress": "Email Address",
+    "companyName": "Company Name (Optional)",
+    "phoneNumber": "Phone Number",
+    "howHeard": "How did you hear about us?",
+    "submit": "Submit"
+  }
+}
+
